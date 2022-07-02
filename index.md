@@ -1,2 +1,6 @@
-#Ofthemind
+---
+layout: post
+title: Ofthemind
+---
+##Ofthemind
 
